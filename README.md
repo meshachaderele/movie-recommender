@@ -1,4 +1,4 @@
-````md
+
 ## Getting Started
 
 Follow the steps below to clone the repository and run the movie recommendation system locally.
@@ -8,11 +8,10 @@ Follow the steps below to clone the repository and run the movie recommendation 
 ## 1. Clone the Repository
 
 ```bash
-
 git clone git remote add origin https://github.com/meshachaderele/movie-recommender.git
 
 cd movie-recommender
-````
+```
 
 ---
 
